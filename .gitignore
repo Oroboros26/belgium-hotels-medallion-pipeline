@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+*.log
+*.db
+*.pid
+.vite/
+node_modules/
+dist/
+airflow/logs/
+airflow/airflow.cfg
+data/
